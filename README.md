@@ -58,3 +58,6 @@ Enables interactive country-level exploration:
 This dashboard demonstrates how Power BI can transform raw pandemic data into meaningful visual insights.  
 The project highlights skills in **data visualization, dashboard design, interactivity, and analytical interpretation**, making it suitable for inclusion in a data analytics portfolio.
 
+### project explanation
+https://drive.google.com/file/d/1uzk09ZqrhHidY26Vb2Q7wbvQRFxZczja/view?usp=sharing
+
